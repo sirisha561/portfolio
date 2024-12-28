@@ -1,0 +1,43 @@
+#hello{
+    padding: 10px;
+    border: 10px solid blue;
+    color: brown;
+    margin: 10px;   
+}
+#world{
+    padding: 10px;
+    border: 10px solid blue;
+    color: brown;
+    margin: 10px;   
+
+}
+#header{
+    padding: 5px;
+}
+#intro{
+    background-color: blueviolet;
+    color: aquamarine;
+    text-decoration: underline;
+}
+img{
+    width: 50;
+}
+input{
+    width: 100%;
+    padding: 5px;
+}
+button{
+    width: 50%;
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+*{
+    margin: 20px;
+}
